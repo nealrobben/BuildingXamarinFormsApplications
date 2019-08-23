@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace BethanysPieShopMobile
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class GridPage : ContentPage
+    public partial class ContentPageView : ContentPage
     {
-        public GridPage()
+        public ContentPageView()
         {
             InitializeComponent();
         }

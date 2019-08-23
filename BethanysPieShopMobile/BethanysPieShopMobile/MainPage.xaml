@@ -6,7 +6,7 @@
              mc:Ignorable="d"
              x:Class="BethanysPieShopMobile.MainPage">
 
-    <Label Text="Welcome to Bethanys Pie Shop"
+    <Label Text="Welcome to Bethany's Pie Shop"
            FontSize="14"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand"></Label>
